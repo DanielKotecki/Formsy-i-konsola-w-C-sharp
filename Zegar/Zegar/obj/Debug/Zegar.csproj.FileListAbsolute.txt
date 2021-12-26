@@ -1,0 +1,20 @@
+C:\Users\MSI-Komputer\source\repos\Zegar\Zegar\obj\Debug\Zegar.csprojAssemblyReference.cache
+C:\Users\MSI-Komputer\source\repos\Zegar\Zegar\obj\Debug\Zegar.Form1.resources
+C:\Users\MSI-Komputer\source\repos\Zegar\Zegar\obj\Debug\Zegar.Properties.Resources.resources
+C:\Users\MSI-Komputer\source\repos\Zegar\Zegar\obj\Debug\Zegar.csproj.GenerateResource.cache
+C:\Users\MSI-Komputer\source\repos\Zegar\Zegar\obj\Debug\Zegar.csproj.CoreCompileInputs.cache
+C:\Users\MSI-Komputer\source\repos\Zegar\Zegar\bin\Debug\Zegar.exe.config
+C:\Users\MSI-Komputer\source\repos\Zegar\Zegar\bin\Debug\Zegar.exe
+C:\Users\MSI-Komputer\source\repos\Zegar\Zegar\bin\Debug\Zegar.pdb
+C:\Users\MSI-Komputer\source\repos\Zegar\Zegar\obj\Debug\Zegar.exe
+C:\Users\MSI-Komputer\source\repos\Zegar\Zegar\obj\Debug\Zegar.pdb
+I:\Serial\Laptop pozostałe pliki\doku\doku\Zegar\Zegar\bin\Debug\Zegar.exe.config
+I:\Serial\Laptop pozostałe pliki\doku\doku\Zegar\Zegar\bin\Debug\Zegar.exe
+I:\Serial\Laptop pozostałe pliki\doku\doku\Zegar\Zegar\bin\Debug\Zegar.pdb
+I:\Serial\Laptop pozostałe pliki\doku\doku\Zegar\Zegar\obj\Debug\Zegar.csproj.AssemblyReference.cache
+I:\Serial\Laptop pozostałe pliki\doku\doku\Zegar\Zegar\obj\Debug\Zegar.Form1.resources
+I:\Serial\Laptop pozostałe pliki\doku\doku\Zegar\Zegar\obj\Debug\Zegar.Properties.Resources.resources
+I:\Serial\Laptop pozostałe pliki\doku\doku\Zegar\Zegar\obj\Debug\Zegar.csproj.GenerateResource.cache
+I:\Serial\Laptop pozostałe pliki\doku\doku\Zegar\Zegar\obj\Debug\Zegar.csproj.CoreCompileInputs.cache
+I:\Serial\Laptop pozostałe pliki\doku\doku\Zegar\Zegar\obj\Debug\Zegar.exe
+I:\Serial\Laptop pozostałe pliki\doku\doku\Zegar\Zegar\obj\Debug\Zegar.pdb

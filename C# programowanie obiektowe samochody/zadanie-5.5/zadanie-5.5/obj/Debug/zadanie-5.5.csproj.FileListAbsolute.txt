@@ -1,0 +1,28 @@
+C:\Users\Dell\source\repos\zadanie-5.5\zadanie-5.5\bin\Debug\zadanie-5.5.exe.config
+C:\Users\Dell\source\repos\zadanie-5.5\zadanie-5.5\bin\Debug\zadanie-5.5.exe
+C:\Users\Dell\source\repos\zadanie-5.5\zadanie-5.5\bin\Debug\zadanie-5.5.pdb
+C:\Users\Dell\source\repos\zadanie-5.5\zadanie-5.5\obj\Debug\zadanie-5.5.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\zadanie-5.5\zadanie-5.5\obj\Debug\zadanie-5.5.exe
+C:\Users\Dell\source\repos\zadanie-5.5\zadanie-5.5\obj\Debug\zadanie-5.5.pdb
+C:\Users\Dell\source\repos\zadanie-5.5\zadanie-5.5\obj\Debug\zadanie-5.5.csprojAssemblyReference.cache
+O:\zadanie-5.5\zadanie-5.5\obj\Debug\zadanie-5.5.csprojAssemblyReference.cache
+O:\zadanie-5.5\zadanie-5.5\obj\Debug\zadanie-5.5.csproj.CoreCompileInputs.cache
+O:\zadanie-5.5\zadanie-5.5\obj\Debug\zadanie-5.5.exe
+O:\zadanie-5.5\zadanie-5.5\obj\Debug\zadanie-5.5.pdb
+O:\zadanie-5.5\zadanie-5.5\bin\Debug\zadanie-5.5.exe.config
+O:\zadanie-5.5\zadanie-5.5\bin\Debug\zadanie-5.5.exe
+O:\zadanie-5.5\zadanie-5.5\bin\Debug\zadanie-5.5.pdb
+D:\zadanie-5.5\zadanie-5.5\bin\Debug\zadanie-5.5.exe.config
+D:\zadanie-5.5\zadanie-5.5\bin\Debug\zadanie-5.5.exe
+D:\zadanie-5.5\zadanie-5.5\bin\Debug\zadanie-5.5.pdb
+D:\zadanie-5.5\zadanie-5.5\obj\Debug\zadanie-5.5.csprojAssemblyReference.cache
+D:\zadanie-5.5\zadanie-5.5\obj\Debug\zadanie-5.5.csproj.CoreCompileInputs.cache
+D:\zadanie-5.5\zadanie-5.5\obj\Debug\zadanie-5.5.exe
+D:\zadanie-5.5\zadanie-5.5\obj\Debug\zadanie-5.5.pdb
+I:\Serial\Laptop pozostałe pliki\doku\doku\zadanie-5.5\zadanie-5.5\bin\Debug\zadanie-5.5.exe.config
+I:\Serial\Laptop pozostałe pliki\doku\doku\zadanie-5.5\zadanie-5.5\bin\Debug\zadanie-5.5.exe
+I:\Serial\Laptop pozostałe pliki\doku\doku\zadanie-5.5\zadanie-5.5\bin\Debug\zadanie-5.5.pdb
+I:\Serial\Laptop pozostałe pliki\doku\doku\zadanie-5.5\zadanie-5.5\obj\Debug\zadanie-5.5.csproj.AssemblyReference.cache
+I:\Serial\Laptop pozostałe pliki\doku\doku\zadanie-5.5\zadanie-5.5\obj\Debug\zadanie-5.5.csproj.CoreCompileInputs.cache
+I:\Serial\Laptop pozostałe pliki\doku\doku\zadanie-5.5\zadanie-5.5\obj\Debug\zadanie-5.5.exe
+I:\Serial\Laptop pozostałe pliki\doku\doku\zadanie-5.5\zadanie-5.5\obj\Debug\zadanie-5.5.pdb

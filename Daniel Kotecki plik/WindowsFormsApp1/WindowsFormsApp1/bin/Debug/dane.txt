@@ -1,0 +1,4 @@
+imię: daniel
+nazwisko: korw
+miasto: Wrocław
+ident: 201919444414

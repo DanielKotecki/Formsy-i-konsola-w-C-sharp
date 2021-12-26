@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\Prograam-5.3\Prograam-5.3\bin\Debug\Prograam-5.3.exe.config
+C:\Users\Dell\source\repos\Prograam-5.3\Prograam-5.3\bin\Debug\Prograam-5.3.exe
+C:\Users\Dell\source\repos\Prograam-5.3\Prograam-5.3\bin\Debug\Prograam-5.3.pdb
+C:\Users\Dell\source\repos\Prograam-5.3\Prograam-5.3\obj\Debug\Prograam-5.3.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Prograam-5.3\Prograam-5.3\obj\Debug\Prograam-5.3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Prograam-5.3\Prograam-5.3\obj\Debug\Prograam-5.3.exe
+C:\Users\Dell\source\repos\Prograam-5.3\Prograam-5.3\obj\Debug\Prograam-5.3.pdb
+I:\Serial\Laptop pozostałe pliki\doku\doku\Programy do odania\Prograam-5.3\Prograam-5.3\bin\Debug\Prograam-5.3.exe.config
+I:\Serial\Laptop pozostałe pliki\doku\doku\Programy do odania\Prograam-5.3\Prograam-5.3\bin\Debug\Prograam-5.3.exe
+I:\Serial\Laptop pozostałe pliki\doku\doku\Programy do odania\Prograam-5.3\Prograam-5.3\bin\Debug\Prograam-5.3.pdb
+I:\Serial\Laptop pozostałe pliki\doku\doku\Programy do odania\Prograam-5.3\Prograam-5.3\obj\Debug\Prograam-5.3.csproj.CoreCompileInputs.cache
+I:\Serial\Laptop pozostałe pliki\doku\doku\Programy do odania\Prograam-5.3\Prograam-5.3\obj\Debug\Prograam-5.3.exe
+I:\Serial\Laptop pozostałe pliki\doku\doku\Programy do odania\Prograam-5.3\Prograam-5.3\obj\Debug\Prograam-5.3.pdb

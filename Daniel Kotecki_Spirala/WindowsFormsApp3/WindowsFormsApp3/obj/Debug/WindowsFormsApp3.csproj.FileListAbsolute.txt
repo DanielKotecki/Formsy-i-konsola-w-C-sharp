@@ -1,0 +1,20 @@
+C:\Users\dkotecki\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\dkotecki\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\dkotecki\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\dkotecki\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\dkotecki\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\dkotecki\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\dkotecki\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\dkotecki\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\dkotecki\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\dkotecki\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+I:\Serial\Laptop pozostałe pliki\doku\doku\Daniel Kotecki_Spirala\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+I:\Serial\Laptop pozostałe pliki\doku\doku\Daniel Kotecki_Spirala\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+I:\Serial\Laptop pozostałe pliki\doku\doku\Daniel Kotecki_Spirala\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+I:\Serial\Laptop pozostałe pliki\doku\doku\Daniel Kotecki_Spirala\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+I:\Serial\Laptop pozostałe pliki\doku\doku\Daniel Kotecki_Spirala\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+I:\Serial\Laptop pozostałe pliki\doku\doku\Daniel Kotecki_Spirala\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+I:\Serial\Laptop pozostałe pliki\doku\doku\Daniel Kotecki_Spirala\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+I:\Serial\Laptop pozostałe pliki\doku\doku\Daniel Kotecki_Spirala\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+I:\Serial\Laptop pozostałe pliki\doku\doku\Daniel Kotecki_Spirala\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+I:\Serial\Laptop pozostałe pliki\doku\doku\Daniel Kotecki_Spirala\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb

@@ -1,0 +1,20 @@
+c:\users\dkotecki\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\dkotecki\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\dkotecki\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\dkotecki\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+c:\users\dkotecki\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\users\dkotecki\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\dkotecki\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+c:\users\dkotecki\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+c:\users\dkotecki\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\dkotecki\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+I:\Serial\Laptop pozostałe pliki\doku\doku\DAniel Kotecki plik\Daniel Kotecki\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+I:\Serial\Laptop pozostałe pliki\doku\doku\DAniel Kotecki plik\Daniel Kotecki\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+I:\Serial\Laptop pozostałe pliki\doku\doku\DAniel Kotecki plik\Daniel Kotecki\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+I:\Serial\Laptop pozostałe pliki\doku\doku\DAniel Kotecki plik\Daniel Kotecki\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+I:\Serial\Laptop pozostałe pliki\doku\doku\DAniel Kotecki plik\Daniel Kotecki\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+I:\Serial\Laptop pozostałe pliki\doku\doku\DAniel Kotecki plik\Daniel Kotecki\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+I:\Serial\Laptop pozostałe pliki\doku\doku\DAniel Kotecki plik\Daniel Kotecki\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+I:\Serial\Laptop pozostałe pliki\doku\doku\DAniel Kotecki plik\Daniel Kotecki\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+I:\Serial\Laptop pozostałe pliki\doku\doku\DAniel Kotecki plik\Daniel Kotecki\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+I:\Serial\Laptop pozostałe pliki\doku\doku\DAniel Kotecki plik\Daniel Kotecki\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

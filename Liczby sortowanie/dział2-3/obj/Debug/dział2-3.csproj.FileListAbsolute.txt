@@ -1,0 +1,21 @@
+C:\Users\Dell\source\repos\dział2-3\dział2-3\bin\Debug\dział2-3.exe.config
+C:\Users\Dell\source\repos\dział2-3\dział2-3\bin\Debug\dział2-3.exe
+C:\Users\Dell\source\repos\dział2-3\dział2-3\bin\Debug\dział2-3.pdb
+C:\Users\Dell\source\repos\dział2-3\dział2-3\obj\Debug\dział2-3.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\dział2-3\dział2-3\obj\Debug\dział2-3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\dział2-3\dział2-3\obj\Debug\dział2-3.exe
+C:\Users\Dell\source\repos\dział2-3\dział2-3\obj\Debug\dział2-3.pdb
+D:\dział2-3\dział2-3\bin\Debug\dział2-3.exe.config
+D:\dział2-3\dział2-3\bin\Debug\dział2-3.exe
+D:\dział2-3\dział2-3\bin\Debug\dział2-3.pdb
+D:\dział2-3\dział2-3\obj\Debug\dział2-3.csprojAssemblyReference.cache
+D:\dział2-3\dział2-3\obj\Debug\dział2-3.csproj.CoreCompileInputs.cache
+D:\dział2-3\dział2-3\obj\Debug\dział2-3.exe
+D:\dział2-3\dział2-3\obj\Debug\dział2-3.pdb
+I:\Serial\Laptop pozostałe pliki\doku\doku\dział2-3\dział2-3\bin\Debug\dział2-3.exe.config
+I:\Serial\Laptop pozostałe pliki\doku\doku\dział2-3\dział2-3\bin\Debug\dział2-3.exe
+I:\Serial\Laptop pozostałe pliki\doku\doku\dział2-3\dział2-3\bin\Debug\dział2-3.pdb
+I:\Serial\Laptop pozostałe pliki\doku\doku\dział2-3\dział2-3\obj\Debug\dział2-3.csproj.AssemblyReference.cache
+I:\Serial\Laptop pozostałe pliki\doku\doku\dział2-3\dział2-3\obj\Debug\dział2-3.csproj.CoreCompileInputs.cache
+I:\Serial\Laptop pozostałe pliki\doku\doku\dział2-3\dział2-3\obj\Debug\dział2-3.exe
+I:\Serial\Laptop pozostałe pliki\doku\doku\dział2-3\dział2-3\obj\Debug\dział2-3.pdb

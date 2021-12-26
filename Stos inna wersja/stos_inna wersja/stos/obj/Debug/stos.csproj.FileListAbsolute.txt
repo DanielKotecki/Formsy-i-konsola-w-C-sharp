@@ -1,0 +1,20 @@
+C:\Users\mkiszka\Desktop\stos\stos\obj\Debug\stos.csprojAssemblyReference.cache
+C:\Users\mkiszka\Desktop\stos\stos\obj\Debug\stos.Form1.resources
+C:\Users\mkiszka\Desktop\stos\stos\obj\Debug\stos.Properties.Resources.resources
+C:\Users\mkiszka\Desktop\stos\stos\obj\Debug\stos.csproj.GenerateResource.cache
+C:\Users\mkiszka\Desktop\stos\stos\obj\Debug\stos.csproj.CoreCompileInputs.cache
+C:\Users\mkiszka\Desktop\stos\stos\bin\Debug\stos.exe.config
+C:\Users\mkiszka\Desktop\stos\stos\bin\Debug\stos.exe
+C:\Users\mkiszka\Desktop\stos\stos\bin\Debug\stos.pdb
+C:\Users\mkiszka\Desktop\stos\stos\obj\Debug\stos.exe
+C:\Users\mkiszka\Desktop\stos\stos\obj\Debug\stos.pdb
+I:\Serial\Laptop pozostałe pliki\doku\doku\stos1\stos_MarcinKiszka\stos\bin\Debug\stos.exe.config
+I:\Serial\Laptop pozostałe pliki\doku\doku\stos1\stos_MarcinKiszka\stos\bin\Debug\stos.exe
+I:\Serial\Laptop pozostałe pliki\doku\doku\stos1\stos_MarcinKiszka\stos\bin\Debug\stos.pdb
+I:\Serial\Laptop pozostałe pliki\doku\doku\stos1\stos_MarcinKiszka\stos\obj\Debug\stos.csproj.AssemblyReference.cache
+I:\Serial\Laptop pozostałe pliki\doku\doku\stos1\stos_MarcinKiszka\stos\obj\Debug\stos.Form1.resources
+I:\Serial\Laptop pozostałe pliki\doku\doku\stos1\stos_MarcinKiszka\stos\obj\Debug\stos.Properties.Resources.resources
+I:\Serial\Laptop pozostałe pliki\doku\doku\stos1\stos_MarcinKiszka\stos\obj\Debug\stos.csproj.GenerateResource.cache
+I:\Serial\Laptop pozostałe pliki\doku\doku\stos1\stos_MarcinKiszka\stos\obj\Debug\stos.csproj.CoreCompileInputs.cache
+I:\Serial\Laptop pozostałe pliki\doku\doku\stos1\stos_MarcinKiszka\stos\obj\Debug\stos.exe
+I:\Serial\Laptop pozostałe pliki\doku\doku\stos1\stos_MarcinKiszka\stos\obj\Debug\stos.pdb

@@ -1,0 +1,21 @@
+C:\Users\MSI-Komputer\source\repos\dział6,1\dział6,1\bin\Debug\dział6,1.exe.config
+C:\Users\MSI-Komputer\source\repos\dział6,1\dział6,1\bin\Debug\dział6,1.exe
+C:\Users\MSI-Komputer\source\repos\dział6,1\dział6,1\bin\Debug\dział6,1.pdb
+C:\Users\MSI-Komputer\source\repos\dział6,1\dział6,1\obj\Debug\dział6,1.csprojAssemblyReference.cache
+C:\Users\MSI-Komputer\source\repos\dział6,1\dział6,1\obj\Debug\dział6,1.csproj.CoreCompileInputs.cache
+C:\Users\MSI-Komputer\source\repos\dział6,1\dział6,1\obj\Debug\dział6,1.exe
+C:\Users\MSI-Komputer\source\repos\dział6,1\dział6,1\obj\Debug\dział6,1.pdb
+D:\dział6,1\dział6,1\bin\Debug\dział6,1.exe.config
+D:\dział6,1\dział6,1\bin\Debug\dział6,1.exe
+D:\dział6,1\dział6,1\bin\Debug\dział6,1.pdb
+D:\dział6,1\dział6,1\obj\Debug\dział6,1.csprojAssemblyReference.cache
+D:\dział6,1\dział6,1\obj\Debug\dział6,1.csproj.CoreCompileInputs.cache
+D:\dział6,1\dział6,1\obj\Debug\dział6,1.exe
+D:\dział6,1\dział6,1\obj\Debug\dział6,1.pdb
+I:\Serial\Laptop pozostałe pliki\doku\doku\dział6,1\dział6,1\bin\Debug\dział6,1.exe.config
+I:\Serial\Laptop pozostałe pliki\doku\doku\dział6,1\dział6,1\bin\Debug\dział6,1.exe
+I:\Serial\Laptop pozostałe pliki\doku\doku\dział6,1\dział6,1\bin\Debug\dział6,1.pdb
+I:\Serial\Laptop pozostałe pliki\doku\doku\dział6,1\dział6,1\obj\Debug\dział6,1.csproj.AssemblyReference.cache
+I:\Serial\Laptop pozostałe pliki\doku\doku\dział6,1\dział6,1\obj\Debug\dział6,1.csproj.CoreCompileInputs.cache
+I:\Serial\Laptop pozostałe pliki\doku\doku\dział6,1\dział6,1\obj\Debug\dział6,1.exe
+I:\Serial\Laptop pozostałe pliki\doku\doku\dział6,1\dział6,1\obj\Debug\dział6,1.pdb

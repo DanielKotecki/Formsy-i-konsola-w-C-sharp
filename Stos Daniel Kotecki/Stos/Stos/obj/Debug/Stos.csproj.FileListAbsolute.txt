@@ -1,0 +1,30 @@
+C:\Users\MSI-Komputer\source\repos\Stos\Stos\bin\Debug\Stos.exe.config
+C:\Users\MSI-Komputer\source\repos\Stos\Stos\bin\Debug\Stos.exe
+C:\Users\MSI-Komputer\source\repos\Stos\Stos\bin\Debug\Stos.pdb
+C:\Users\MSI-Komputer\source\repos\Stos\Stos\obj\Debug\Stos.csprojAssemblyReference.cache
+C:\Users\MSI-Komputer\source\repos\Stos\Stos\obj\Debug\Stos.Form1.resources
+C:\Users\MSI-Komputer\source\repos\Stos\Stos\obj\Debug\Stos.Properties.Resources.resources
+C:\Users\MSI-Komputer\source\repos\Stos\Stos\obj\Debug\Stos.csproj.GenerateResource.cache
+C:\Users\MSI-Komputer\source\repos\Stos\Stos\obj\Debug\Stos.csproj.CoreCompileInputs.cache
+C:\Users\MSI-Komputer\source\repos\Stos\Stos\obj\Debug\Stos.exe
+C:\Users\MSI-Komputer\source\repos\Stos\Stos\obj\Debug\Stos.pdb
+O:\Stos Daniel Kotecki\Stos\Stos\bin\Debug\Stos.exe.config
+O:\Stos Daniel Kotecki\Stos\Stos\bin\Debug\Stos.exe
+O:\Stos Daniel Kotecki\Stos\Stos\bin\Debug\Stos.pdb
+O:\Stos Daniel Kotecki\Stos\Stos\obj\Debug\Stos.csprojAssemblyReference.cache
+O:\Stos Daniel Kotecki\Stos\Stos\obj\Debug\Stos.Form1.resources
+O:\Stos Daniel Kotecki\Stos\Stos\obj\Debug\Stos.Properties.Resources.resources
+O:\Stos Daniel Kotecki\Stos\Stos\obj\Debug\Stos.csproj.GenerateResource.cache
+O:\Stos Daniel Kotecki\Stos\Stos\obj\Debug\Stos.csproj.CoreCompileInputs.cache
+O:\Stos Daniel Kotecki\Stos\Stos\obj\Debug\Stos.exe
+O:\Stos Daniel Kotecki\Stos\Stos\obj\Debug\Stos.pdb
+I:\Serial\Laptop pozostałe pliki\doku\doku\Stos Daniel Kotecki\Stos\Stos\bin\Debug\Stos.exe.config
+I:\Serial\Laptop pozostałe pliki\doku\doku\Stos Daniel Kotecki\Stos\Stos\bin\Debug\Stos.exe
+I:\Serial\Laptop pozostałe pliki\doku\doku\Stos Daniel Kotecki\Stos\Stos\bin\Debug\Stos.pdb
+I:\Serial\Laptop pozostałe pliki\doku\doku\Stos Daniel Kotecki\Stos\Stos\obj\Debug\Stos.csproj.AssemblyReference.cache
+I:\Serial\Laptop pozostałe pliki\doku\doku\Stos Daniel Kotecki\Stos\Stos\obj\Debug\Stos.Form1.resources
+I:\Serial\Laptop pozostałe pliki\doku\doku\Stos Daniel Kotecki\Stos\Stos\obj\Debug\Stos.Properties.Resources.resources
+I:\Serial\Laptop pozostałe pliki\doku\doku\Stos Daniel Kotecki\Stos\Stos\obj\Debug\Stos.csproj.GenerateResource.cache
+I:\Serial\Laptop pozostałe pliki\doku\doku\Stos Daniel Kotecki\Stos\Stos\obj\Debug\Stos.csproj.CoreCompileInputs.cache
+I:\Serial\Laptop pozostałe pliki\doku\doku\Stos Daniel Kotecki\Stos\Stos\obj\Debug\Stos.exe
+I:\Serial\Laptop pozostałe pliki\doku\doku\Stos Daniel Kotecki\Stos\Stos\obj\Debug\Stos.pdb

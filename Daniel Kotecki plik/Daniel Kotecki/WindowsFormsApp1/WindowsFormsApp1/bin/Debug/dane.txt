@@ -1,0 +1,8 @@
+imię: daniel
+nazwisko: korw
+miasto: Wrocław
+ident: 201919444414
+imię: Daniel
+nazwisko: Kotecki
+miasto: Kościan
+ident: 20211225111111

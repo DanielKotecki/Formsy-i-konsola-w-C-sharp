@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\data_i_czas\data_i_czas\bin\Debug\data_i_czas.exe.config
+C:\Users\Dell\source\repos\data_i_czas\data_i_czas\bin\Debug\data_i_czas.exe
+C:\Users\Dell\source\repos\data_i_czas\data_i_czas\bin\Debug\data_i_czas.pdb
+C:\Users\Dell\source\repos\data_i_czas\data_i_czas\obj\Debug\data_i_czas.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\data_i_czas\data_i_czas\obj\Debug\data_i_czas.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\data_i_czas\data_i_czas\obj\Debug\data_i_czas.exe
+C:\Users\Dell\source\repos\data_i_czas\data_i_czas\obj\Debug\data_i_czas.pdb
+I:\Serial\Laptop pozostałe pliki\doku\doku\Programy do odania\data_i_czas-3.2\data_i_czas\bin\Debug\data_i_czas.exe.config
+I:\Serial\Laptop pozostałe pliki\doku\doku\Programy do odania\data_i_czas-3.2\data_i_czas\bin\Debug\data_i_czas.exe
+I:\Serial\Laptop pozostałe pliki\doku\doku\Programy do odania\data_i_czas-3.2\data_i_czas\bin\Debug\data_i_czas.pdb
+I:\Serial\Laptop pozostałe pliki\doku\doku\Programy do odania\data_i_czas-3.2\data_i_czas\obj\Debug\data_i_czas.csproj.AssemblyReference.cache
+I:\Serial\Laptop pozostałe pliki\doku\doku\Programy do odania\data_i_czas-3.2\data_i_czas\obj\Debug\data_i_czas.csproj.CoreCompileInputs.cache
+I:\Serial\Laptop pozostałe pliki\doku\doku\Programy do odania\data_i_czas-3.2\data_i_czas\obj\Debug\data_i_czas.exe
+I:\Serial\Laptop pozostałe pliki\doku\doku\Programy do odania\data_i_czas-3.2\data_i_czas\obj\Debug\data_i_czas.pdb
